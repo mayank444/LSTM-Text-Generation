@@ -1,4 +1,4 @@
-**Introduction
+**Introduction**
 
 This example demonstrates how to use a LSTM model to generate text character-by-character.
 
